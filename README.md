@@ -2,5 +2,5 @@
 
 [Readme]
 
-Recommender System Algorithm Development
+Goal : Development of Recommender System Algorithm
 
