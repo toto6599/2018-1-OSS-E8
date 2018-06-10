@@ -9,10 +9,10 @@ Building and Analyzing Big Data & Recommender Systems
 
 OUR MEMBERS
 ------------
-* 강병일 2012310617 kbi8319@gmail.com
-* 홍주경 2012311332 rrrjuchin@gmail.com
-* 정상원 2012313560 toto6599@gmail.com
-* 이우중 2012313304 wjlee612@gmail.com
+* 강병일(RiverBI)    2012310617 kbi8319@gmail.com
+* 홍주경(rrrjuchin)  2012311332 rrrjuchin@gmail.com
+* 정상원(toto6599)   2012313560 toto6599@gmail.com
+* 이우중(LeeWooJung) 2012313304 wjlee612@gmail.com
 
 
 Goal
@@ -44,6 +44,12 @@ Role
 Updated
 -------
 * K-means 알고리즘 python version 추가.k-means 개념 정리 파일 추가. (2018.6 - 강병일)
+
+
+License
+-------
+LICENSE BSD-3-Clause 
+
 
 
 
