@@ -1,9 +1,35 @@
-2018-1-OSS-E8
+2018-1-OSS-E8 [Readme]
+(Welcome to the 2018-1-OSS-E8)
 
-[Readme]
+[Building and Analyzing Recommender Systems & Big Data]
+========================================================
 
-Goal : Development of Recommender System Algorithm
+[OUR MEMBERS]
+* 강병일 2012310617 kbi8319@gmail.com
+* 홍주경 2012311332 rrrjuchin@gmail.com
+* 정상원 2012313560 toto6599@gmail.com
+* 이우중 2012313304 wjlee612@gmail.com
 
+[Goal]
+* Project : https://github.com/NicolasHug/Surprise 참여
+* 정적페이지 활동 :
+  - 프로젝트 Code Review
+  - Recommender System 함수 분석
+  - Recommender System 함수 추가
+  - 관련 논문 Review
+* Code :
+  - Recommender system 함수 별 코드 추가
+  - 관련 논문 리뷰 내용
+  
+[Role]
+* 강병일 : Data set 수집 
+* 홍주경 : 결과분석
+* 정상원 : 데이터 실험
+* 이우중 : Code Review
+*** 공통 : Recommender System 알고리즘 수정 및 추가, 알고리즘 개발, 관련 논문 리뷰
+  
+***
+http://54.159.182.152/wordpress/index.php/
 
 
 
