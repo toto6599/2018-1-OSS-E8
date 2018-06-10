@@ -41,7 +41,7 @@ Role
 * 정적 페이지 : http://54.159.182.152/wordpress/index.php/
 
 
-Update
+Updated
 -------
 * K-means 알고리즘 python version 추가.k-means 개념 정리 파일 추가. (2018.6 - 강병일)
 
