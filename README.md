@@ -1,7 +1,7 @@
 2018-1-OSS-E8 [Readme]
 (Welcome to the 2018-1-OSS-E8)
 
-[Building and Analyzing Recommender Systems & Big Data]
+[Building and Analyzing Big Data & Recommender Systems]
 ========================================================
 
 [OUR MEMBERS]
