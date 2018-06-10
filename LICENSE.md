@@ -1,4 +1,4 @@
-Copyright (c) 2016, Nicolas Hug
+Copyright (c) 2016, RiverBI
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
