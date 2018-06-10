@@ -1,4 +1,4 @@
-Copyright (c) 2016, RiverBI
+Copyright (c) 2018, RiverBI
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
